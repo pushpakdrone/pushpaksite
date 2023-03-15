@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://pushpakdrone.com/sitemap.xml
+Sitemap: https://pushpakdrone.com/sitemap.xml
